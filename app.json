@@ -100,7 +100,7 @@
       }
   },
   "buildpacks": [{
-      "url": "heroku-22/python"
+      "url": "heroku/python"
     }],
   "formation": {
       "web": {
